@@ -1,0 +1,6 @@
+{
+  "name": "YOSTI SIDDHIKSHA",
+  "description": "From Self-Help to Self-Sustained Growth — Digital Finance, AI Business Advisory, Market Support, and Live Multilingual Voice for Women Entrepreneurs & SHGs.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
